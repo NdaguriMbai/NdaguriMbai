@@ -1,7 +1,6 @@
-## Hi there 👋
-I am Emmanuel Ndaguri Mbai
-I am interested in Machine Learning with Python
-Reach me on Twitter @EmmanuelNdaguri
+## Hi there, I am Ndaguri Mbai\
+I am interested in Machine Learning\
+Reach me on Twitter 🐧 @EmmanuelNdaguri\
 
 <!--
 **NdaguriMbai/NdaguriMbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
